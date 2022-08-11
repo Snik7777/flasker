@@ -1,0 +1,637 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ret",
+				"return"
+			],
+			[
+				"a",
+				"animation"
+			],
+			[
+				"A",
+				"Animation"
+			],
+			[
+				"my",
+				"myresult"
+			],
+			[
+				"wi",
+				"Window"
+			],
+			[
+				"m",
+				"myresult"
+			],
+			[
+				"re",
+				"recursos"
+			],
+			[
+				"La",
+				"Latte"
+			],
+			[
+				"S",
+				"ScreenManager"
+			],
+			[
+				"MY",
+				"mydb"
+			],
+			[
+				"ve",
+				"venues"
+			],
+			[
+				"Ve",
+				"Venue"
+			],
+			[
+				"p",
+				"POST"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"s",
+				"svenues"
+			],
+			[
+				"all",
+				"allvenues"
+			],
+			[
+				"e",
+				"eventform"
+			],
+			[
+				"add_",
+				"add_event"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"eve",
+				"eventform"
+			],
+			[
+				"d",
+				"description"
+			],
+			[
+				"event",
+				"event_date"
+			],
+			[
+				"f",
+				"fields"
+			],
+			[
+				"add",
+				"add_venue"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"V",
+				"Venueforms"
+			],
+			[
+				"fi",
+				"fields"
+			],
+			[
+				"mo",
+				"ModelForm"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"c",
+				"current_year"
+			],
+			[
+				"cu",
+				"current_year"
+			],
+			[
+				"mon",
+				"month_number"
+			],
+			[
+				"M",
+				"Momentoideal"
+			],
+			[
+				"Momen",
+				"Momentoideal"
+			],
+			[
+				"F",
+				"FT"
+			],
+			[
+				"map",
+				"mapview"
+			],
+			[
+				"scree",
+				"Screen"
+			],
+			[
+				"scr",
+				"Screen"
+			],
+			[
+				"langua",
+				"language"
+			],
+			[
+				"ani",
+				"animate_it"
+			],
+			[
+				"anima",
+				"Animation"
+			],
+			[
+				"pro",
+				"prior"
+			],
+			[
+				"num",
+				"num_list"
+			],
+			[
+				"W",
+				"Window"
+			],
+			[
+				"g",
+				"geometry"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"dele",
+				"delete_box"
+			],
+			[
+				"DE",
+				"delete"
+			],
+			[
+				"l",
+				"l_name"
+			],
+			[
+				"L_",
+				"l_name_label"
+			],
+			[
+				"su",
+				"submit_btn"
+			],
+			[
+				"Adres",
+				"address"
+			],
+			[
+				"my_",
+				"my_label"
+			],
+			[
+				"f_",
+				"f_num"
+			],
+			[
+				"b",
+				"button_add"
+			],
+			[
+				"na",
+				"name_to_update"
+			],
+			[
+				"name_t",
+				"name_to_update"
+			],
+			[
+				"us",
+				"UserForm"
+			],
+			[
+				"fl",
+				"flask"
+			],
+			[
+				"N",
+				"NameForm"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"rou",
+				"route"
+			],
+			[
+				"_",
+				"__repr__"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"Str",
+				"String"
+			],
+			[
+				"intege",
+				"Integer"
+			],
+			[
+				"C",
+				"Column"
+			],
+			[
+				"SQLA",
+				"SQLAlchemyAttribute"
+			],
+			[
+				"SQ",
+				"SQLALCHEMY_DATABASE_URI"
+			],
+			[
+				"star",
+				"start"
+			],
+			[
+				"la",
+				"last"
+			],
+			[
+				"erro",
+				"error"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"emai",
+				"Email"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"i",
+				"items"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 54.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/flasck/hello.py",
+		"/C/flasck/template/home.html",
+		"/C/flasck/template/f.html",
+		"/C/flasck/template/index.html",
+		"/C/flasck/tamplates/index.html",
+		"/C/kivy2/visual.kv",
+		"/C/kivy2/visual.py",
+		"/C/kivy2/window.kv",
+		"/C/kivy2/window.py",
+		"/C/Users/usuario/Desktop/Desktop/pythonProject/venv/Lib/site-packages/mysql/connector/django/base.py",
+		"/C/sqlite/db1.py",
+		"/C/sqlite/our_app.py",
+		"/C/kivy2/tab.py",
+		"/C/kivy2/coffe.kv",
+		"/C/kivy2/coffe.py",
+		"/C/kivy2/tab.kv",
+		"/C/mysql/tmysql.py",
+		"/C/pythontest/t1.py",
+		"/C/kivy2/checkbox.kv",
+		"/C/kivy2/checkbox.py",
+		"/C/kivy2/NP2.kv",
+		"/C/kivy2/animate2.kv",
+		"/C/kivy2/NP1.kv",
+		"/C/kivy2/NP1.py",
+		"/C/kivy2/animation.py",
+		"/C/kivy2/split.kv",
+		"/C/kivy2/spin.py",
+		"/C/kivy2/animate2.py",
+		"/C/kivynewtest/gui.py",
+		"/C/mysite/mysite/events/views.py",
+		"/C/mysite/mysite/events/templates/events/navbar.html",
+		"/C/mysite/mysite/events/templates/events/show_venue.html",
+		"/C/mysite/mysite/events/templates/events/venues.html",
+		"/C/mysite/mysite/events/templates/events/svenues.html",
+		"/C/mysite/mysite/events/models.py",
+		"/C/mysite/mysite/events/urls.py",
+		"/C/Users/usuario/Desktop/templates site/Site1/Página-Inicial.html",
+		"/C/mysite/mysite/events/templates/events/base.html",
+		"/C/mysite/mysite/events/templates/events/event_list.html",
+		"/C/mysite/mysite/events/templates/events/addvenue.html",
+		"/C/mysite/mysite/events/forms.py",
+		"/C/mysite/mysite/events/templates/events/add_events.html",
+		"/C/mysite/mysite/events/templates/events/forms.py",
+		"/C/mysite/mysite/events/admin.py",
+		"/C/mysite/mysite/events/templates/events/home.html",
+		"/C/mysite/mysite/events/templates/events/navbar.css",
+		"/C/mysite/mysite/mysite/urls.py",
+		"/C/mysite/mysite/mysite/settings.py",
+		"/C/mysite/mysite/events/templates/home.html",
+		"/C/redutorpython/calceixo.py",
+		"/C/kivymd/mat.kv",
+		"/C/kivymd/keyboard.py",
+		"/C/kivymd/multiscreen.py",
+		"/C/kivymd/db.py",
+		"/C/kivymd/logapp.kv",
+		"/C/kivymd/logapp.py",
+		"/C/kivymd/multiscreen.kv",
+		"/C/kivymd/bb.kv",
+		"/C/kivymd/bb.py",
+		"/C/kivy2/tabs.kv",
+		"/C/kivy2/slider.kv",
+		"/C/kivyqui/awrb.py",
+		"/C/kivyqui/Aw.kv",
+		"/C/calc/calc.spec",
+		"/C/kivyqui/calc.kv",
+		"/C/kivyqui/Calculadora.py",
+		"/C/kivyqui/background_color.kv",
+		"/C/kivyqui/my.kv",
+		"/C/kivyqui/hallo.py",
+		"/C/kivyqui/whatever.kv.py",
+		"/C/tkinter/database.py",
+		"/C/tkinter/scale.py",
+		"/C/tkinter/frame.py",
+		"/C/flasker/templates/base.html",
+		"/C/flasker/static/images/b8fd218c6b27cd5e07b81289272ee5ba.jpg",
+		"/C/flasker/.gitignore",
+		"/C/mysql2/database3.py",
+		"/C/my_flask/templates/base.html",
+		"/C/my_flask/templates/index.html",
+		"/C/my_flask/templates/about.html",
+		"/C/my_flask/templates/subscribe.html",
+		"/C/my_flask/templates/form.html",
+		"/C/my_flask/static/css/styles.css",
+		"/C/my_flask/templates/fail.html",
+		"/C/my_flask/app.py",
+		"/C/my_flask/static/images/img",
+		"/C/Users/usuario/Desktop/site_final/index.html",
+		"/C/Users/usuario/Desktop/site_final/css/folhadeestilo.css",
+		"/C/Users/usuario/Desktop/site_final/clientes.html",
+		"/C/Users/usuario/Desktop/site_final/index.html.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "create_db.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

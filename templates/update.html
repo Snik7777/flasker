@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+
+{% if name %}
+   <h1> hello {{ name }}!!!!</h1>
+   
+
+{% else %}
+   <h1> update user </h1>
+   <br/>
+   <form method="POST">
+   	     {{ form.hidden_tag() }}
+         <p>Name</p>
+   	     {{ form.name.lebel }}
+   	     {{ form.name() }}
+   	     <br/>
+   	     <br/>
+
+         <p>Email</p>
+   	     {{ form.email.lebel }}
+   	     {{ form.email() }}
+   	     
+   	     
+   	     <br/>
+   	     
+
+   	     {{ form.submit() }}
+
+
+
+
+   </form>
+<br/>
+<br/>
+
+
+{% for our_user in our_users %}
+     {{ our_user.id }}{{ our_user.name }}. {{ our_user.email }}
+{% endfor %}
+ {% endif %}  
+}
+
+{% endblock %}
